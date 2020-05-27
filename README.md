@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/hf4ae3jnkvjvjl66?svg=true)](https://ci.appveyor.com/project/KateGaw/ra-events-state-layouts)
 
 https://kategaw.github.io/RA_events-state_layouts/
 
