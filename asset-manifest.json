@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RA_events-state_layouts/static/css/main.871f6d2c.chunk.css",
+    "main.js": "/RA_events-state_layouts/static/js/main.c733d7e7.chunk.js",
+    "main.js.map": "/RA_events-state_layouts/static/js/main.c733d7e7.chunk.js.map",
+    "runtime-main.js": "/RA_events-state_layouts/static/js/runtime-main.6c8e07d5.js",
+    "runtime-main.js.map": "/RA_events-state_layouts/static/js/runtime-main.6c8e07d5.js.map",
+    "static/js/2.40b874b5.chunk.js": "/RA_events-state_layouts/static/js/2.40b874b5.chunk.js",
+    "static/js/2.40b874b5.chunk.js.map": "/RA_events-state_layouts/static/js/2.40b874b5.chunk.js.map",
+    "index.html": "/RA_events-state_layouts/index.html",
+    "precache-manifest.fe7cb00fdf3b8ef87dfaa506b28e7e40.js": "/RA_events-state_layouts/precache-manifest.fe7cb00fdf3b8ef87dfaa506b28e7e40.js",
+    "service-worker.js": "/RA_events-state_layouts/service-worker.js",
+    "static/css/main.871f6d2c.chunk.css.map": "/RA_events-state_layouts/static/css/main.871f6d2c.chunk.css.map",
+    "static/js/2.40b874b5.chunk.js.LICENSE.txt": "/RA_events-state_layouts/static/js/2.40b874b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c8e07d5.js",
+    "static/js/2.40b874b5.chunk.js",
+    "static/css/main.871f6d2c.chunk.css",
+    "static/js/main.c733d7e7.chunk.js"
+  ]
+}
